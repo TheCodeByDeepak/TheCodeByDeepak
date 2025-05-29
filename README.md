@@ -65,9 +65,9 @@ Always open to **collaborations**, **freelance opportunities**, or **new project
 
 ## 📫 Let's Connect!
 
-- 🌐 **Portfolio:** [thecodebydeepak.github.io](https://thecodebydeepak.github.io/)
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/thecodebydeepak)** – Reach out for collaborations or networking  
-- 📧 **[Email](mailto:thecodebydeepak@gmail.com)** – Let’s build something amazing together!
+🌐 **[Portfolio](https://thecodebydeepak.github.io/)** – Explore my work and projects online  
+🔗 **[LinkedIn](https://www.linkedin.com/in/thecodebydeepak)** – Reach out for collaborations or networking  
+📧 **[Email](mailto:thecodebydeepak@gmail.com)** – Let’s build something amazing together!
 
 ---
 
