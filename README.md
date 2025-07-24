@@ -61,7 +61,7 @@ Always open to **collaborations**, **freelance opportunities**, or **new project
 - **Lesson Planner App** *(Flutter + Firebase)*   
   **GitHub Repo:** [Lesson Plan App](https://github.com/TheCodeByDeepak/LessonPlan)
 
-  - **Sister Birthday Special** 
+- **Sister Birthday Special** 
   **Live Site:** [Sister Birthday Special](https://github.com/TheCodeByDeepak/SisterBirthdaySpecial)  
   **GitHub Repo:** [Sister Birthday Special](https://thecodebydeepak.github.io/SisterBirthdaySpecial)
 
