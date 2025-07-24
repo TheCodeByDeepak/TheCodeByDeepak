@@ -43,6 +43,10 @@ Always open to **collaborations**, **freelance opportunities**, or **new project
 
 ## ✅ Completed Projects
 
+- **Lesson Planner App** *(Flutter + Firebase)*  
+  A modern and user-friendly mobile app designed for teachers to create, organize, and manage lesson plans effectively. Features include phone number OTP login, personalized lesson storage, custom sections with bullet points, PDF export, and clean UI with date/search filters.  
+  **GitHub Repo:** [Lesson Plan App](https://github.com/TheCodeByDeepak/LessonPlan)
+
 - **Quick Learning Classroom** *(MERN Stack)*  
   A complete classroom management system with role-based access for Admin, Faculty, and Students. Features include attendance tracking, announcements, assignments, fee management, test marks, study materials, real-time chat, blacklist data, and secure classroom joining with approval.  
   **GitHub Repo:** [Quick Learning Classroom](https://github.com/thecodebydeepak/QuickLearningClassroom)
