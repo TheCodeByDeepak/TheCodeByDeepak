@@ -58,17 +58,17 @@ Always open to **collaborations**, **freelance opportunities**, or **new project
 
 ## ✅ Completed Projects
 
-- **Lesson Planner App** *(Flutter + Firebase)*   
+- **Lesson Planner App** *(Flutter + Firebase)*  
   **GitHub Repo:** [Lesson Plan App](https://github.com/TheCodeByDeepak/LessonPlan)
 
-- **Sister Birthday Special** 
-  **Live Site:** [Sister Birthday Special](https://github.com/TheCodeByDeepak/SisterBirthdaySpecial)  
-  **GitHub Repo:** [Sister Birthday Special](https://thecodebydeepak.github.io/SisterBirthdaySpecial)
+- **Sister Birthday Special**  
+  **Live Site:** [Sister Birthday Special](https://thecodebydeepak.github.io/SisterBirthdaySpecial)  
+  **GitHub Repo:** [Sister Birthday Special](https://github.com/TheCodeByDeepak/SisterBirthdaySpecial)
 
 - **Quick Learning Classroom** *(MERN Stack)*  
   **GitHub Repo:** [Quick Learning Classroom](https://github.com/thecodebydeepak/QuickLearningClassroom)
 
-- **PlaTec Industries Website** 
+- **PlaTec Industries Website**  
   **Live Site:** [PlaTec Industries](https://thecodebydeepak.github.io/PlaTecIndustries/)  
   **GitHub Repo:** [PlaTec Industries](https://github.com/thecodebydeepak/PlaTecIndustries)
 
@@ -78,6 +78,7 @@ Always open to **collaborations**, **freelance opportunities**, or **new project
 
 - **Doctor Appointment System** *(MERN Stack)*  
   **GitHub Repo:** [Doctor Appointment System](https://github.com/thecodebydeepak/DoctorAppointmentSystem)
+
 
 ---
 
