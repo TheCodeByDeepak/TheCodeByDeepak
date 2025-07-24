@@ -16,23 +16,39 @@ I have **2+ years of experience in teaching**, helping students grasp complex co
 - 💡 Strong problem-solving & communication skills
 - 💻 **Passionate about:** Web Development | App Development | AI & ML | Teaching
 - 🚴‍♂️ **Fun fact:** I used to cycle **18 km daily** to college — it kept me refreshed! 🚲
-
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages & Frameworks**
-- **Frontend:** HTML, CSS, JavaScript, React.js, Flutter  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Other:** Dart, Python  
+### 💻 **Frontend**
+- **Web:** HTML, CSS, JavaScript, React.js  
+- **Mobile:** Flutter (Dart)
 
-### **Tools & Platforms**
-- **Code Editors:** VS Code, Android Studio  
+### ⚙️ **Backend**
+- Node.js, Express.js
+
+### 🗄️ **Database**
+- MongoDB (with Mongoose)  
+- Cloud Firestore (Firebase)
+
+### 🔐 **Authentication**
+- Firebase Authentication (Phone Number & OTP)  
+- JWT (JSON Web Tokens) for MERN projects
+
+### 🧰 **Languages & Tools**
+- **Languages:** Dart, JavaScript, Python  
+- **IDEs:** VS Code, Android Studio  
 - **Version Control:** Git, GitHub  
-- **Deployment:** GitHub Pages, Heroku, Vercel, Netlify
+- **API Testing:** Postman  
+- **Firebase Console**
+
+### 🚀 **Deployment**
+- **Web:** GitHub Pages, Vercel, Netlify  
+- **Backend:** Heroku  
+- **Mobile:** Android Emulator, Physical Device
 
 ---
+
 
 ## 🚧 Ongoing Projects
 
