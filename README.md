@@ -16,38 +16,8 @@ I have **2+ years of experience in teaching**, helping students grasp complex co
 - 💡 Strong problem-solving & communication skills
 - 💻 **Passionate about:** Web Development | App Development | AI & ML | Teaching
 - 🚴‍♂️ **Fun fact:** I used to cycle **18 km daily** to college — it kept me refreshed! 🚲
----
-
-## 🛠️ Tech Stack
-
-### 💻 **Frontend**
-- **Web:** HTML, CSS, JavaScript, React.js  
-- **Mobile:** Flutter (Dart)
-
-### ⚙️ **Backend**
-- Node.js, Express.js
-
-### 🗄️ **Database**
-- MongoDB (with Mongoose)  
-- Cloud Firestore (Firebase)
-
-### 🔐 **Authentication**
-- Firebase Authentication (Phone Number & OTP)  
-- JWT (JSON Web Tokens) for MERN projects
-
-### 🧰 **Languages & Tools**
-- **Languages:** Dart, JavaScript, Python  
-- **IDEs:** VS Code, Android Studio  
-- **Version Control:** Git, GitHub  
-- **API Testing:** Postman  
-- **Firebase Console**
-
-### 🚀 **Deployment**
-- **Web:** GitHub Pages, Vercel, Netlify 
-- **Mobile:** Android Emulator, Physical Device
 
 ---
-
 
 ## 🚧 Ongoing Projects
 
@@ -78,7 +48,6 @@ Always open to **collaborations**, **freelance opportunities**, or **new project
 
 - **Doctor Appointment System** *(MERN Stack)*  
   **GitHub Repo:** [Doctor Appointment System](https://github.com/thecodebydeepak/DoctorAppointmentSystem)
-
 
 ---
 
