@@ -1,11 +1,13 @@
 # 👋 Hi, I’m Deepak Yadav
 
-🚀 **Educator | Tech Enthusiast | Full-Stack Developer**
+🚀 **Educator | Tech Enthusiast | Full-Stack & Flutter Developer**
 
-I’m a passionate **developer and tutor** who loves building innovative web and mobile applications.  
-With a strong foundation in both teaching and tech, I aim to create solutions that are both impactful and user-friendly.
+I’m a passionate **developer and tutor** who enjoys building innovative web and mobile applications.  
+With a strong foundation in both **teaching** and **technology**, I aim to create solutions that are impactful, scalable, and user-friendly.  
 
-I have **2+ years of experience in teaching**, helping students grasp complex concepts with clarity and confidence.
+📚 I bring **2+ years of teaching experience**, recognized as *Best Tutor* for simplifying complex concepts and helping learners gain confidence.  
+
+🌟 Actively seeking **internships, freelance roles, and collaborative projects** to grow as both a developer and an educator.  
 
 ---
 
@@ -28,8 +30,15 @@ Always open to **collaborations**, **freelance opportunities**, or **new project
 
 ## ✅ Completed Projects
 
+- **Spring Hub India**  
+  **Live Site:** [Divine Classes](https://springhubindia.com)
+  
 - **Lesson Planner App** *(Flutter + Firebase)*  
   **GitHub Repo:** [Lesson Plan App](https://github.com/TheCodeByDeepak/LessonPlan)
+
+- **Divine Classes Website (Redesigned)**  
+  **Live Site:** [Divine Classes](https://thecodebydeepak.github.io/DivineClasses/)  
+  **GitHub Repo:** [Divine Classes](https://github.com/thecodebydeepak/DivineClasses)
 
 - **Sister Birthday Special**  
   **Live Site:** [Sister Birthday Special](https://thecodebydeepak.github.io/SisterBirthdaySpecial)  
@@ -37,14 +46,6 @@ Always open to **collaborations**, **freelance opportunities**, or **new project
 
 - **Quick Learning Classroom** *(MERN Stack)*  
   **GitHub Repo:** [Quick Learning Classroom](https://github.com/thecodebydeepak/QuickLearningClassroom)
-
-- **PlaTec Industries Website**  
-  **Live Site:** [PlaTec Industries](https://thecodebydeepak.github.io/PlaTecIndustries/)  
-  **GitHub Repo:** [PlaTec Industries](https://github.com/thecodebydeepak/PlaTecIndustries)
-
-- **Divine Classes Website (Redesigned)**  
-  **Live Site:** [Divine Classes](https://thecodebydeepak.github.io/DivineClasses/)  
-  **GitHub Repo:** [Divine Classes](https://github.com/thecodebydeepak/DivineClasses)
 
 - **Doctor Appointment System** *(MERN Stack)*  
   **GitHub Repo:** [Doctor Appointment System](https://github.com/thecodebydeepak/DoctorAppointmentSystem)
