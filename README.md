@@ -31,7 +31,7 @@ Always open to **collaborations**, **freelance opportunities**, or **new project
 ## ✅ Completed Projects
 
 - **Spring Hub India**  
-  **Live Site:** [Divine Classes](https://springhubindia.com)
+  **Live Site:** [Spring Hub India](https://springhubindia.com)
   
 - **Lesson Planner App** *(Flutter + Firebase)*  
   **GitHub Repo:** [Lesson Plan App](https://github.com/TheCodeByDeepak/LessonPlan)
